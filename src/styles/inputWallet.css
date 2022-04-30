@@ -1,0 +1,58 @@
+.inputWallet {
+  align-items: flex-end;
+  background-color: #1e2c3a;
+  border-radius: 5px;
+  box-shadow: 0 0 3px rgb(163, 163, 163);
+  color: #bdbdbd;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: -20px auto;
+  max-width: 960px;
+  padding: 20px;
+}
+
+.inputWallet div:first-child {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.inputWallet div:last-child {
+  display: flex;
+  justify-content: center;
+  margin-top: 28px;
+  width: 100%;
+}
+
+.inputWallet label {
+  display: block;
+  padding: 4px 8px;
+}
+
+.inputWallet input , .inputWallet select {
+  background-color: #15202b;
+  color: #bdbdbd;
+  border: 1px solid;
+  border-radius: 5px;
+  font-size: 1em;
+  margin-top: 5px;
+  outline-color: #03a1d1;
+  padding: 5px;
+  width: 100%;
+}
+
+.inputWallet button {
+  background-color: #03a1d1;
+  border: none;
+  color: #01366b;
+  font-size: 1em;
+  font-weight: 600;
+  padding: 10px 20px;
+  width: 100%;
+}
+
+.inputWallet .editar-despesa {
+  background-color: #fea418;
+  color: #15202b;
+}
