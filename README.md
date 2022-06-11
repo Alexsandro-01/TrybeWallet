@@ -20,6 +20,8 @@ O controle de estado com `Redux` foi o maior aprendizado, o conhecimento com `Re
 
 ### E como o projeto ficou?
 
+- Caso queira visitar: <a href="https://alexsandro-01.github.io/trybewallet/#/">Trybewallet</a>
+
 - Bem, aqui está uma demostração da página de login, o login é fictício, mas o usuário precisa informar um email no formato válido e uma senha para poder habilitar o botão de login.
 
 https://user-images.githubusercontent.com/73038442/173192610-c695a088-5004-4738-867d-532b974e879f.mp4
