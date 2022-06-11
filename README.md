@@ -17,3 +17,15 @@ Eu preciso implementar os testes com o `RTL`, além de flexibizar a aplicação 
 ### Quais os aprendizados?
 
 O controle de estado com `Redux` foi o maior aprendizado, o conhecimento com `React` já estava bem consolidado, mas as configurações e interações com o `Redux` foram postasa a prova, além da manipulação de dados, filtragem das despesas e edição. Sai do projeto muito mais confiante em manipular dados em objetos :D
+
+### E como o projeto ficou?
+
+- Bem, aqui está uma demostração da página de login, o login é fictício, mas o usuário precisa informar um email no formato válido e uma senha para poder habilitar o botão de login.
+
+https://user-images.githubusercontent.com/73038442/173192610-c695a088-5004-4738-867d-532b974e879f.mp4
+
+- Aqui temos a aplicação em si. É possível adicionar as despezas, deletar ou editar. Como o cambio está sempre mudando de valor, a edição das despezas é feita com base no valor da hora em que o usuário adicionou a despeza.
+
+
+https://user-images.githubusercontent.com/73038442/173192743-e46a5e1e-b19a-45db-8413-01dd7bb59489.mp4
+
