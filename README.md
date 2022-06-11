@@ -17,9 +17,3 @@ Eu preciso implementar os testes com o `RTL`, além de flexibizar a aplicação 
 ### Quais os aprendizados?
 
 O controle de estado com `Redux` foi o maior aprendizado, o conhecimento com `React` já estava bem consolidado, mas as configurações e interações com o `Redux` foram postasa a prova, além da manipulação de dados, filtragem das despesas e edição. Sai do projeto muito mais confiante em manipular dados em objetos :D
-
-<video width="320" height="240" controls>
-  <source src="trybewallet.mp4" type="video/mp4">
-  <!-- <source src="movie.ogg" type="video/ogg"> -->
-Your browser does not support the video tag.
-</video>
